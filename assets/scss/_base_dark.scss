@@ -41,8 +41,8 @@
   // fix color schemes which do not explicitly set fg-color
   .highlight {
     pre {
-      background-color: $alt-bg-color-dark;
-      color: $fg-color-dark;
+      background-color: #424242; //$alt-bg-color-dark;
+      color: black;//$fg-color-dark;
 
       code {
         background-color: inherit;
